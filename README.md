@@ -3,7 +3,8 @@
 ### 使用
 
     . npm install
-    . 浏览器访问 http://localhost:3002
+    . node server.js
+    . 浏览器访问 http://localhost:3002/api/test
 
 ### 优化
 
